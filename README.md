@@ -15,8 +15,8 @@ The released code consists of the following files.
 --data
 --log
 --feature_all
---cal4log.py
---main.py
+--cal4log
+--main
 --MADDPG
 --IMGDDPG
 --model
